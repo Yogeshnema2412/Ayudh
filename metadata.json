@@ -1,0 +1,8 @@
+
+{
+  "name": "AyurMind: AI Ayurveda Companion",
+  "description": "A modern, interactive platform blending ancient Ayurvedic wisdom with AI to provide personalized wellness guidance. Discover your Dosha, get tailored routines, and chat with an AI health assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
